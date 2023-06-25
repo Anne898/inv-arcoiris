@@ -5449,19 +5449,19 @@ blockquote.u-text.u-indent-21 {
 .u-form-vertical .u-label-left .u-spacing-20.u-field-label,
 .u-form-vertical .u-label-left .u-spacing-20.u-label,
 .u-rating-icons.u-spacing-20 > .u-form-rating-item {
-  margin-right: 20px;
+  margin-left: 3px;
 }
 .u-spacing-20.u-countdown-counter > div + div,
 .u-spacing-20.u-price-wrapper > div + div,
 .u-spacing-20.u-language-layout-icons .u-language-url + .u-language-url,
 .u-spacing-20 .u-social-url + .u-social-url {
-  margin-left: 20px;
+  margin-left: 3px;
 }
 .u-spacing-20.u-language-layout-dropdown .u-language-url + .u-language-url {
   margin-top: 3px;
 }
 .u-spacing-20.u-countdown-wrapper > div:not(.u-hidden) + div {
-  margin-left: 10px;
+  margin-left: 3px;
 }
 .u-spacing-20.u-search-icon,
 .u-spacing-20.u-gallery-nav,
