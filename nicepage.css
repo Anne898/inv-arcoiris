@@ -5452,13 +5452,13 @@ blockquote.u-text.u-indent-21 {
 .u-spacing-20.u-price-wrapper > div + div,
 .u-spacing-20.u-language-layout-icons .u-language-url + .u-language-url,
 .u-spacing-20 .u-social-url + .u-social-url {
-  margin-left: 20px;
+  margin-left: 5px;
 }
 .u-spacing-20.u-language-layout-dropdown .u-language-url + .u-language-url {
   margin-top: 20px;
 }
 .u-spacing-20.u-countdown-wrapper > div:not(.u-hidden) + div {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 .u-spacing-20.u-search-icon,
 .u-spacing-20.u-gallery-nav,
